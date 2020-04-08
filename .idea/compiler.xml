@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="neo-rpc-example" />
+        <module name="neo-rpc-proto" />
+        <module name="neo-rpc-codec" />
+        <module name="neo-rpc-common" />
+        <module name="neo-rpc-server" />
+        <module name="neo-rpc-client" />
+        <module name="neo-rpc-transport" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="neo-rpc" target="1.8" />
+      <module name="neo-rpc-client" target="1.8" />
+      <module name="neo-rpc-codec" target="1.8" />
+      <module name="neo-rpc-common" target="1.8" />
+      <module name="neo-rpc-example" target="1.8" />
+      <module name="neo-rpc-proto" target="1.8" />
+      <module name="neo-rpc-server" target="1.8" />
+      <module name="neo-rpc-transport" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

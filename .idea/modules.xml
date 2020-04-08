@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/neo-rpc.iml" filepath="$PROJECT_DIR$/.idea/neo-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neo-rpc-client/neo-rpc-client.iml" filepath="$PROJECT_DIR$/neo-rpc-client/neo-rpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neo-rpc-codec/neo-rpc-codec.iml" filepath="$PROJECT_DIR$/neo-rpc-codec/neo-rpc-codec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neo-rpc-common/neo-rpc-common.iml" filepath="$PROJECT_DIR$/neo-rpc-common/neo-rpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neo-rpc-example/neo-rpc-example.iml" filepath="$PROJECT_DIR$/neo-rpc-example/neo-rpc-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neo-rpc-proto/neo-rpc-proto.iml" filepath="$PROJECT_DIR$/neo-rpc-proto/neo-rpc-proto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neo-rpc-server/neo-rpc-server.iml" filepath="$PROJECT_DIR$/neo-rpc-server/neo-rpc-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neo-rpc-transport/neo-rpc-transport.iml" filepath="$PROJECT_DIR$/neo-rpc-transport/neo-rpc-transport.iml" />
+    </modules>
+  </component>
+</project>
